@@ -22,6 +22,12 @@
     flex-basis: 48%;
     float: none;
     width: auto;
+    .home-text-block {
+      margin: 4.5rem 0 0;
+      li:first-child a {
+        font-weight: 700;
+      }
+    }
   }
 
   blockquote span {
