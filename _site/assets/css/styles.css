@@ -17,6 +17,10 @@
     flex-basis: 48%;
     float: none;
     width: auto; }
+    .three.separate.flex .wrap .home-text-block {
+      margin: 4.5rem 0 0; }
+      .three.separate.flex .wrap .home-text-block li:first-child a {
+        font-weight: 700; }
   .three.separate.flex blockquote span {
     display: block;
     text-align: right;
