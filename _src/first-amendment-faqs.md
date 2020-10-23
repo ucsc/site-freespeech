@@ -12,21 +12,22 @@ Generally, the First Amendment to the U.S. Constitution protects all speech, alt
 
 **What does the First Amendment protect?**
 ---
-	- Generally, the First Amendment to the U.S. Constitution protects all speech, although the following forms of speech enjoy varying degrees of lesser protection:
-		- Obscenity (e.g., child pornography).
-		- Defamation/libel.
-		- Involving illegal conduct. Examples:
-			- Criminal threat: Any person who willfully threatens to commit a crime which will result in death or great bodily injury to another person, with the specific intent that the statement is to be taken as a threat, even if there is no intent of actually carrying it out. The threat must be, on its face and under the circumstances in which it is made, so unequivocal, unconditional, immediate, and specific as to cause the person threatened to reasonably fear for his or her own safety or for his or her immediate family's safety.
-			- Hanging a noose on a college campus for the purpose of terrorizing members of the campus community with the knowledge that it is a symbol representing a threat to life.
-			- Obstruction of a police officer.
-			- Fighting or challenging another to fight in a public place.
-			- Use of offensive words in a public place which are inherently likely to provoke an immediate violent reaction (e.g., "fighting words").
-			- Inciting illegal activity.
-			- Willful disturbance of any lawful meeting (must "substantially impair" the meeting by intentional conduct in violation of implicit or explicit rules for the meeting that violator knew or should have known).
-			- Unlawful assembly and refusal to disperse.
-			- Vandalism and defacing property of another.
-			- Disturbance by loud and unreasonable noise.
-			- Trespass.
+- Generally, the First Amendment to the U.S. Constitution protects all speech, although the following forms of speech enjoy varying degrees of lesser protection:
+	- Obscenity (e.g., child pornography).
+	- Defamation/libel.
+	- Involving illegal conduct. Examples:
+		- Criminal threat: Any person who willfully threatens to commit a crime which will result in death or great bodily injury to another person, with the specific intent that the statement is to be taken as a threat, even if there is no intent of actually carrying it out. The threat must be, on its face and under the circumstances in which it is made, so unequivocal, unconditional, immediate, and specific as to cause the person threatened to reasonably fear for his or her own safety or for his or her immediate family's safety.
+		- Hanging a noose on a college campus for the purpose of terrorizing members of the campus community with the knowledge that it is a symbol representing a threat to life.
+		- Obstruction of a police officer.
+		- Fighting or challenging another to fight in a public place.
+		- Use of offensive words in a public place which are inherently likely to provoke an immediate violent reaction (e.g., "fighting words").
+		- Inciting illegal activity.
+		- Willful disturbance of any lawful meeting (must "substantially impair" the meeting by intentional conduct in violation of implicit or explicit rules for the meeting that violator knew or should have known).
+		- Unlawful assembly and refusal to disperse.
+		- Vandalism and defacing property of another.
+		- Disturbance by loud and unreasonable noise.
+		- Trespass.
+
 ---
 
 **Does the First Amendment protect civil disobedience on campus?**
