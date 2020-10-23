@@ -1,0 +1,16 @@
+title: UC Santa Cruz Free Speech
+email: pio@ucsc.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  UC Santa Cruz is committed to assuring that all persons may exercise the constitutionally protected rights of free expression, speech, and assembly.
+url: "https://freespeech.ucsc.edu"
+timezone: "America/Los_Angeles"
+
+source: ./_src
+destination: ./_site
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
