@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The First Amendment
+permalink: /learn/first-amendment.html
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
