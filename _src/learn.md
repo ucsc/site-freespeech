@@ -24,4 +24,6 @@ For more information on expressing your message, please write to [deanofstudents
 
 ### [First Amendment FAQs](first-amendment-faqs.html)
 
+### [Laws and Policies](laws-policies.html)
+
 
