@@ -4,14 +4,15 @@ title: First Amendment FAQs
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report Violations and Concerns"
-    url: "https://www.ucsc.edu/"
+  - title: "Report hate and bias"
+    url: "https://reporthate.ucsc.edu/"
 ---
 
 Generally, the First Amendment to the U.S. Constitution protects all speech, although the following forms of speech enjoy varying degrees of lesser protection:
+
 ---
 **What does the First Amendment protect?**
----
+
 - Generally, the First Amendment to the U.S. Constitution protects all speech, although the following forms of speech enjoy varying degrees of lesser protection:
 	- Obscenity (e.g., child pornography).
 	- Defamation/libel.
@@ -30,19 +31,17 @@ Generally, the First Amendment to the U.S. Constitution protects all speech, alt
 
 ---
 **Does the First Amendment protect civil disobedience on campus?**
----
 
 Protests and civil disobedience have played an historic role on university campuses, in bringing important and beneficial changes within society, and in the development of our democracy. However, civil disobedience is not protected speech under the Constitution. The Constitution does not guarantee any right to engage in civil disobedience—which, by its very definition, involves the violation of laws or regulations—without incurring consequences. Civil disobedience may have a negative effect on the protected interests of others and may interfere with University business or threaten public safety or University assets, in ways that require the University to act to protect those other interests.
 
 ---
 **How do the UC Santa Cruz Principles of Community relate to the First Amendment?**
----
 
 The [Principles of Community](https://www.ucsc.edu/about/principles-community.html) were adopted as part of UC Santa Cruz’s commitment to promoting and protecting an environment that values and supports every person in an atmosphere of civility, honesty, cooperation, professionalism and fairness. While the Principles of Community serve as aspirational goals for how our community members should treat one another, they are not rules, laws or policies. In other words, even though speech may go against our Principles of Community, the speaker cannot be punished for such a violation.
 
 ---
 **What is hate speech, and is it illegal?**
----
+
 
 The term "hate speech" is not defined by law, and no such category exists as an exception to the First Amendment. Thus, even if speech is hateful or offensive, it is still protected by the First Amendment.
 
@@ -60,26 +59,26 @@ UC Santa Cruz offers tools and mechanisms to address words or actions that impac
 
 ---
 **What is academic freedom?**
----
 
 The principles of academic freedom protect freedom of inquiry and research, freedom of teaching and freedom of expression and publication. These freedoms enable the university to advance knowledge and to transmit it effectively to its students and to the public. The university also seeks to foster in its students a mature independence of mind, and this purpose cannot be achieved unless students and faculty are free within the classroom to express the widest range of viewpoints in accord with the standards of scholarly inquiry and professional ethics.
 » [Learn more about Academic Freedom.](https://senate.ucsc.edu/committees/caf-committee-on-academic-freedom/index.html)
 
 ---
 **When does speech become harassment?**
----
+
 Harassment is defined by policy as verbal or physical conduct that unreasonably interferes with a person’s work or education, or creates a hostile or offensive working or educational environment, when that conduct is based on race, color, national origin, religion, sex, gender, gender expression, gender identity, pregnancy, physical or mental disability, medical condition (including cancer-related or genetic characteristics), genetic information (including family medical history), ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services.
 
 » [Learn more about the university's policy on harassment.](https://equity.ucsc.edu)
+
 ---
 **Is speech on the internet and social media entitled to the same level of protection as speech in print and other media?**
----
+
 
 Yes. In the case Reno v. ACLU, the Supreme Court rejected the government's argument that speech on the internet could be more carefully regulated as it is with radio and television broadcasting and concluded that the internet, as with print media, should be given the full protection of the First Amendment. Reno v. ACLU, 521 U.S. 844 (1997).
 
 ---
 **Are chalking and posting permitted on campus?**
----
+
 Student organizations registered with the Student Organization Advising & Resources (SOAR) are not permitted to chalk on campus.
 
 Posting is allowed under regulations that are intended to prevent interference with the free flow of persons and traffic and with the regular activities of the University.
@@ -88,18 +87,17 @@ Posting is allowed under regulations that are intended to prevent interference w
 
 ---
 **Are people allowed to take photographs or videos of students who are protesting?**
----
+
 If someone is conducting a protest in a public place, there are no policies that prevent people from photographing or video recording them.
 
 ---
 **Laws, Policies and The Principles of Community Laws and Policies**
---
 
 - Learn more about the related laws and policies
 
 ---
 **Principles of Community**
----
+
 - Learn more about the Principles of Community and the First Amendment
 - [Learn more about the UC Principles Against Intolerance](https://regents.universityofcalifornia.edu/regmeet/mar16/e1attach.pdf)
 

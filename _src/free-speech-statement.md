@@ -4,8 +4,8 @@ title: UCSC Free Speech Statement
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report Violations and Concerns"
-    url: "https://www.ucsc.edu/"
+  - title: "Report hate and bias"
+    url: "https://reporthate.ucsc.edu/"
 ---
 
 Freedom of thought, inquiry, speech and lawful assembly are fundamental rights of all persons. These rights include the freedom to express opinions; to hear, express and debate various views, no matter how unpopular; and to voice criticism. Free speech is uniquely important to the University as it brings about a free interchange of ideas integral to the University’s fundamental mission of teaching, research and public service.

@@ -4,8 +4,8 @@ title: The First Amendment
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report Violations and Concerns"
-    url: "https://www.ucsc.edu/"
+  - title: "Report hate and bias"
+    url: "https://reporthate.ucsc.edu/"
 ---
 
 The First Amendment to the U.S. Constitution is only 45 words long, yet it protects our most basic freedoms. It reads in full:
