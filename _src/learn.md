@@ -26,4 +26,6 @@ For more information on expressing your message, please write to [deanofstudents
 
 ### [Laws and Policies](laws-policies.html)
 
+### [Principles of Community and the First Amendment](principles-community-first-amendment.html)
+
 
