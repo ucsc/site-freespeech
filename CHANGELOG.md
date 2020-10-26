@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/ucsc/site-freespeech/compare/v1.3.0...v1.4.0) (2020-10-26)
+
+
+### Features
+
+* Added Act ([b7c7390](https://github.com/ucsc/site-freespeech/commit/b7c7390683baa233d79f3d84a0857e7ae5e2c8ff))
+* Added Principles of Community and the First Amendment ([7899780](https://github.com/ucsc/site-freespeech/commit/7899780d4823716cf455f4f5c813d29b2e4bd281))
+* Permalink to Learn ([f28f6f1](https://github.com/ucsc/site-freespeech/commit/f28f6f1b498cd284fc35eba77cbaa333d9865191))
+
 ## [1.3.0](https://github.com/ucsc/site-freespeech/compare/v1.2.1...v1.3.0) (2020-10-26)
 
 
