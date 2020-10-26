@@ -4,6 +4,11 @@ title: Act
 menu: "Act"
 order: 2
 permalink: /act
+related:
+  - title: "Learn more about the related laws and policies"
+    url: "https://www.ucsc.edu/"
+  - title: "Report hate and bias"
+    url: "https://reporthate.ucsc.edu/"
 ---
 
 The First Amendment gives us all a great deal of power by allowing us to express ourselves almost without reservation. It is important to note, however, that freedom of speech does not allow us to silence those with whom we disagree.
@@ -37,7 +42,7 @@ Explore some of the ways you can use your First Amendment rights to express disa
 
 Whether using amplified sound, bringing in a speaker or displaying symbolic structures, there are many things to consider when planning a protest or event at UC Santa Cruz.
 
-» Learn what to consider when planning an even
+» Learn what to consider when planning an event
 
 
 ### [Expressing Disagreement: Scenarios and Civil Disobedience]()
