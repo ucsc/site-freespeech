@@ -3,6 +3,7 @@ layout: page
 title: Learn
 menu: "Learn"
 order: 1
+permalink: /learn/
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
