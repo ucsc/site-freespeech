@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/ucsc/site-freespeech/compare/v1.2.1...v1.3.0) (2020-10-26)
+
+
+### Features
+
+* Added Laws and Policies ([a2cd5a2](https://github.com/ucsc/site-freespeech/commit/a2cd5a2d582994ccd057a92a6ae374de260686b1))
+* Completed First Amendment Faqs ([3b482f8](https://github.com/ucsc/site-freespeech/commit/3b482f8b8cb6952425e78e742f151e083fba5fc9))
+
+
+### Bug Fixes
+
+* README.md ([a959915](https://github.com/ucsc/site-freespeech/commit/a95991535753023d07c145735a014f4e148f998d))
+* Related links to First Amendment ([69e709e](https://github.com/ucsc/site-freespeech/commit/69e709e5ce7381f870618c79fa4e0bd611e11d07))
+
 ### [1.2.1](https://github.com/luckyluke007/site-freespeech/compare/v1.2.0...v1.2.1) (2020-10-23)
 
 
