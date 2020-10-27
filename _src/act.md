@@ -3,7 +3,7 @@ layout: page
 title: Act
 menu: "Act"
 order: 2
-permalink: /act
+permalink: /act/
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
@@ -44,11 +44,10 @@ Whether using amplified sound, bringing in a speaker or displaying symbolic stru
 
 » Learn what to consider when planning an event
 
-
-### [Expressing Disagreement: Scenarios and Civil Disobedience]()
-### [Scenarios]()
-### [Civil Disobedience]()
-### [Planning an Event or Protest]()
-### [Planning an Event]()
-### [Report Violations]()
+### [Expressing Disagreement: Scenarios and Civil Disobedience](/act/expressing-disagreement.html)
+### [Scenarios](/act/scenarios.html)
+### [Civil Disobedience](/act/civil-disobedience.html)
+### [Planning an Event or Protest](/act/plan-event-protest.html)
+### [Planning an Event](/act/plan-event.html)
+### [Report Violations](/act/report-violations.html)
 
