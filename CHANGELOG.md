@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/ucsc/site-freespeech/compare/v1.4.0...v1.5.0) (2020-10-27)
+
+
+### Features
+
+* Act home ([18a6876](https://github.com/ucsc/site-freespeech/commit/18a68768ec9caa60441e4fbae2da5e7a9985b63e))
+* Added Act content ([7bfc3a0](https://github.com/ucsc/site-freespeech/commit/7bfc3a02bf3f562b9bf235ad445e6ffa3eee6d6e))
+
+
+### Bug Fixes
+
+* Learn index ([ba64a33](https://github.com/ucsc/site-freespeech/commit/ba64a3358afec692da09ee375a8607ca2a2b8dd3))
+
 ## [1.4.0](https://github.com/ucsc/site-freespeech/compare/v1.3.0...v1.4.0) (2020-10-26)
 
 
