@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/ucsc/site-freespeech/compare/v1.5.0...v1.6.0) (2020-10-27)
+
+
+### Features
+
+* Added Get Support content ([664c025](https://github.com/ucsc/site-freespeech/commit/664c025e319b7942ca286fc64b3edb78d2bdcf8b))
+
 ## [1.5.0](https://github.com/ucsc/site-freespeech/compare/v1.4.0...v1.5.0) (2020-10-27)
 
 
