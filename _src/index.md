@@ -5,5 +5,5 @@ hero:
     url: "/assets/images/freespeech-billboard.jpg"
     text: "Two people wearing mask - with text I have a voice and speak up"
     headline: "Free Speech"
-    description: "UC Santa Cruz has joined the 65-member Association of American Universities"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed risus ligula, faucibus non fringilla at, volutpat quis ligula."
 ---
