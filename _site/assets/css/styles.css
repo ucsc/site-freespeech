@@ -26,6 +26,46 @@
     text-align: right;
     margin-top: 1em; }
 
+/** accordion **/
+.collapsible {
+  border-top: 0px solid #ddd !important;
+  border-right: 0px solid #ddd !important;
+  border-left: 0px solid #ddd !important;
+  border-bottom: 0px solid #ddd !important;
+  box-shadow: none !important; }
+
+.collapsible-header {
+  background-color: #fff !important;
+  border-bottom: 1px solid #ddd !important;
+  line-height: 1rem !important;
+  min-height: 0rem !important;
+  padding: 1rem !important; }
+
+.collapsible-body {
+  border-top: 1px solid #ddd;
+  border-bottom: 0 !important; }
+
+.collapsible-body p {
+  padding: 1rem 1rem !important; }
+
+.collapsible-header i {
+  line-height: 1rem !important;
+  margin-right: 0 !important; }
+
+.faqs-list {
+  border-top: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  box-shadow: none !important; }
+
+.faq-title {
+  display: block; }
+
+.faqs-list .collapsible-body ul {
+  list-style-type: disc !important; }
+
+/** end accordion **/
 @media screen and (min-width: 48em) {
   .hero-area.layout-left {
     width: 100%;
