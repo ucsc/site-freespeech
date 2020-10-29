@@ -5,13 +5,3 @@
     X-Content-Type-Options = "nosniff"
     X-XSS-Protection = "1; mode=block"
     X-Frame-Options = "DENY"
-[[redirects]]
-  from = "https://chancellor.ucsc.edu/campus-reaction/"
-  to = "https://news.ucsc.edu/2019/05/larive-reaction.html"
-  status = 301
-  force = true
-[[redirects]]
-  from = "https://leadership.ucsc.edu/*"
-  to = "https://chancellor.ucsc.edu/:splat"
-  status = 301
-  force = true
