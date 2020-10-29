@@ -3,6 +3,11 @@ layout: page
 title: FAQs
 menu: "FAQs"
 order: 4
+related:
+  - title: "Learn more about the related laws and policies"
+    url: "https://www.ucsc.edu/"
+  - title: "Report hate and bias"
+    url: "https://reporthate.ucsc.edu/"
 ---
 <ul class="collapsible" data-collapsible="accordion">
   {% for faq in site.data.faqs %}
