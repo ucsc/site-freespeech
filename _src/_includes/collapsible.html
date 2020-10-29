@@ -1,16 +1,10 @@
 <script>
 
-  function expandAll(){
-  $(".collapsible-header").addClass("active");
-  $(".collapsible").collapsible({accordion: false});
-}
-
-function collapseAll(){
-  $(".collapsible-header").removeClass(function(){
-    return "active";
+  $(document).ready(function(){
+    $( ".collapsible-header" ).click(function() {
+        $(".more",this).toggle()
+        $(".less", this).toggle()
+    });
   });
-  $(".collapsible").collapsible({accordion: true});
-  $(".collapsible").collapsible({accordion: false});
-}
 
 </script>

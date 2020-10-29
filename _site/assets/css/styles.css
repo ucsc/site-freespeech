@@ -40,7 +40,8 @@
   border-bottom: 1px solid #ddd !important;
   line-height: 1.5rem !important;
   min-height: 1.5rem !important;
-  padding: 1rem !important; }
+  padding: 1rem !important;
+  color: #006aad; }
 
 .collapsible-body {
   border-top: 1px solid #ddd;
@@ -65,6 +66,33 @@
 
 .faqs-list .collapsible-body ul {
   list-style-type: disc !important; }
+
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialicons/v55/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format("woff2"); }
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased; }
+
+.expand-icon {
+  display: block;
+  float: left;
+  height: 0rem;
+  width: 2rem; }
 
 /** end accordion **/
 @media screen and (min-width: 48em) {
