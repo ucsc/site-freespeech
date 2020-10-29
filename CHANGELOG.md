@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/ucsc/site-freespeech/compare/v1.6.0...v1.7.0) (2020-10-29)
+
+
+### Features
+
+* Added FAQS ([288d7cb](https://github.com/ucsc/site-freespeech/commit/288d7cb40f49a0b7731b78a4bfa0110ee5caa869))
+
+
+### Bug Fixes
+
+* Collapsible header title alignment ([939a523](https://github.com/ucsc/site-freespeech/commit/939a523878d800338f19545cc2059d186c4fc706))
+* Free Speech billboard ([38f4c21](https://github.com/ucsc/site-freespeech/commit/38f4c21ddc0ad82a3d93dcd0f408a6302639a235))
+
 ## [1.6.0](https://github.com/ucsc/site-freespeech/compare/v1.5.0...v1.6.0) (2020-10-27)
 
 
