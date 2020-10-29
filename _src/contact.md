@@ -3,12 +3,15 @@ layout: page
 title: Contact
 menu: "Contact"
 order: 5
+related:
+  - title: "Learn more about the related laws and policies"
+    url: "https://www.ucsc.edu/"
+  - title: "Report hate and bias"
+    url: "https://reporthate.ucsc.edu/"
 ---
 
-## Contact form
-
 <form name="contact" method="POST" data-netlify="true">
-  div class="pa2">
+  <div class="pa2">
     <label for="name" class="f5 db mb2 navy">Your name</label>
     <input type="text" id="name" name="name" />
   </div>

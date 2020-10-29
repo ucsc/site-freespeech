@@ -6,6 +6,11 @@ order: 3
 banner:
   text: "Statues of people holding hand in circle"
   url: "/assets/images/get-support-banner.jpg"
+related:
+  - title: "Learn more about the related laws and policies"
+    url: "https://www.ucsc.edu/"
+  - title: "Report hate and bias"
+    url: "https://reporthate.ucsc.edu/"
 ---
 
 As a public university, UC Santa Cruz is governed by the same laws as any government body. That means that all members of our community enjoy the protections of the First Amendment. This freedom is essential, but it also has the potential to offend and even to hurt.
