@@ -4,6 +4,9 @@ title: Learn
 menu: "Learn"
 order: 1
 permalink: /learn/
+banner:
+  text: "Students group discussing in a classroom"
+  url: "/assets/images/learn-banner.jpg"
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
