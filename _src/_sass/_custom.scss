@@ -21,6 +21,18 @@ a {
   color: #fff !important;
 }
 
+.sidebar ul li {
+  list-style-type: square;
+}
+
+.collapsible-body ul li {
+  list-style-type: square;
+}
+
+.collapsible-body ol li {
+  list-style-type: lower-roman;
+}
+
 input[type=text] {
   background-color: #fff !important;
   height: 1.8rem !important;
