@@ -12,6 +12,23 @@ a {
   color: #fff !important;
 }
 
+#topNav a, .global-nav a {
+  color: #fff !important;
+}
+
+input[type=text] {
+  background-color: #fff !important;
+  height: 1.8rem !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+  transition: none !important;
+  color: #84827c !important;
+}
+
+.search .query:focus, .search .query:active {
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
 #sprflt {
   .main-content,
   .sidebar {
