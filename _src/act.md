@@ -4,6 +4,9 @@ title: Act
 menu: "Act"
 order: 2
 permalink: /act/
+banner:
+  text: "Artist is painting next to Frida Kahlo mural"
+  url: "/assets/images/act-banner.jpg"
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

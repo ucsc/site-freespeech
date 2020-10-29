@@ -3,6 +3,9 @@ layout: page
 title: "Expressing Disagreement: Scenarios and Civil Disobedience"
 menu: "Expressing Disagreement: Scenarios and Civil Disobedience"
 permalink: /act/expressing-disagreement.html
+banner:
+  text: "A person with the cardboard sign We Need A Change"
+  url: "/assets/images/express-disagreement-banner.jpg"
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
