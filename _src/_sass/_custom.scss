@@ -47,10 +47,11 @@
 }
 
 .collapsible-header {
+  display: flex !important;
   background-color: #fff !important;
   border-bottom: 1px solid #ddd !important;
-  line-height: 1rem !important;
-  min-height: 0rem !important;
+  line-height: 1.5rem !important;
+  min-height: 1.5rem !important;
   padding: 1rem !important;
 }
 
