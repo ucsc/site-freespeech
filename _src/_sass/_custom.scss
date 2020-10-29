@@ -86,6 +86,12 @@
   list-style-type: disc !important;
 }
 
+.collapsible-header.active i {
+  -ms-transform: rotate(180deg); /* IE 9 */
+  -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+  transform: rotate(180deg);
+}
+
 /* fallback */
 @font-face {
   font-family: 'Material Icons';
