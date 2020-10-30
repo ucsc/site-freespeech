@@ -47,7 +47,7 @@ The University of California is committed to upholding and preserving principles
 
 > Universities, importantly, also have the ability to model respectful discourse, to show how those who hold opposing points of view can engage passionately but also civilly and respectfully. 
 
-> - Chancellor Cynthia Larive
+> *–Chancellor Cynthia Larive*
 
 ---
 ### **UC Policies and Procedures Protecting Free Expression**
