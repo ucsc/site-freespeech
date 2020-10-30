@@ -52,18 +52,11 @@ The University of California is committed to upholding and preserving principles
 ---
 ### **UC Policies and Procedures Protecting Free Expression**
 
-- **UC Davis Policy and Procedure Manual (PPM)**
-  - [400-01: Freedom of Expression](https://ucdavispolicy.ellucid.com/documents/view/37/active/)
-  - [270-20: Use and Reservation of University Properties/Event Arrangements](https://ucdavispolicy.ellucid.com/documents/view/247)
-  - [310-25: Distribution of Information and Literature](https://ucdavispolicy.ellucid.com/documents/view/367)
-  - [310-26: Distribution of Periodical Publications](https://ucdavispolicy.ellucid.com/documents/view/369)
-  - [310-27: Posting of Information](https://ucdavispolicy.ellucid.com/documents/view/375)
-
 - **UC Policies Applying to Campus Activities, Organizations, and Students (PACAOS)**
   - [30.00: Policy on Speech and Advocacy](http://policy.ucop.edu/doc/2710523/PACAOS-30)
   - [40.00: Policy on Use of University Property](http://policy.ucop.edu/doc/2710524/PACAOS-40)
 
-- **Time, Place and Manner Restrictions**
+#### **Time, Place and Manner Restrictions**
 
 In public forums such as the Quarry Plaza, the university may not regulate the content of speech but can place reasonable time, place, and manner restrictions. Examples of permissible university time, place, and manner restrictions include:
 
@@ -76,38 +69,16 @@ A more complete list of university time, place, and manner restrictions can be f
 
 
 ---
-### **Other Resources**
-
-[United States Courts: What Does Free Speech Mean?](http://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does)
-
-[First Amendment Center](http://www.firstamendmentcenter.org/)
-
-[American Civil Liberties Union (ACLU)](https://www.aclu.org/)
-
-- [Free speech](https://www.aclu.org/)
-
-- [Know your rights](https://www.aclu.org/know-your-rights/what-do-if-your-rights-are-violated-demonstration-or-protest)
-
-[National Lawyers Guild (NLG)](https://www.nlg.org/)
-
-[Foundation for Individual Rights in Education (FIRE)](https://www.thefire.org/)
-
-[UC Santa Cruz Student Conduct and Community Standards](https://deanofstudents.ucsc.edu/student-conduct/index.html)
-
-[UC National Center for Free Speech](https://freespeechcenter.universityofcalifornia.edu/)
-
-
----
 ### **Principles of Community**
 
-Learn more about the Principles of Community and the First Amendmen
+Learn more about the [Principles of Community and the First Amendment](https://freespeech.ucsc.edu/learn/principles-community-first-amendment.html)
 
 ---
 ### **Report Violations and Concerns**
 
 If you believe your rights have been violated or that you have witnessed an act of hate, bias, discrimination or harassment, learn how and where to report it.
 
-- Learn how to report rights violations
+- [Learn how to report rights violations](https://deanofstudents.ucsc.edu/student-conduct/rules-violation.html)
 - [Learn how to report hate and bias](https://reporthate.ucsc.edu/)
 
 
