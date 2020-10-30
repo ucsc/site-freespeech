@@ -11,8 +11,8 @@ banner:
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report Violations and Concerns"
-    url: "https://www.ucsc.edu/"
+  - title: "Report violations and concerns"
+    url: "https://help.ucsc.edu"
 ---
 
 UC Santa Cruz is committed to assuring that all persons may exercise the constitutionally protected rights of free expression, speech, and assembly. Further, the University seeks to maintain a safe environment for the free expression of ideas and ideals.
