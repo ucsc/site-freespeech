@@ -52,6 +52,8 @@ The University of California is committed to upholding and preserving principles
 ---
 ### **UC Policies and Procedures Protecting Free Expression**
 
+- [Student Handbook and University Policies](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/)
+
 - **UC Policies Applying to Campus Activities, Organizations, and Students (PACAOS)**
   - [30.00: Policy on Speech and Advocacy](http://policy.ucop.edu/doc/2710523/PACAOS-30)
   - [40.00: Policy on Use of University Property](http://policy.ucop.edu/doc/2710524/PACAOS-40)
