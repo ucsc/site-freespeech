@@ -4,9 +4,9 @@ title: Laws and Policies
 permalink: /learn/laws-policies.html
 left_navigation: learn
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About the Related Laws and Policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 
