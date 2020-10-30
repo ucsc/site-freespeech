@@ -102,6 +102,22 @@
 
 </div>
 
+{% if page.hero %}
+  <section class="hero-area">
+    {%- if page.hero.link %}
+    <a href="{{ page.hero.link }}">
+      {% endif %}
+      <img src="{{ page.hero.url }}" alt="{{ page.hero.text }}" />
+      <div class="text">
+        <h2>{{ page.hero.headline }}</h2>
+        <p>{{ page.hero.description }}</p>
+      </div>
+      {%- if page.hero.link %}
+    </a>
+    {% endif %}
+  </section>
+{% endif %}
+
         <div id="main" role="main">
 
         {{ content }}

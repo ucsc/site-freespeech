@@ -3,10 +3,22 @@ body {
   font-size: 16px;
 }
 
+#wrap {
+  padding: 0;
+}
+
+.site-header {
+  padding: 0 16px !important;
+}
+
 .hero-area .text h2,
 .hero-area .text p {
   margin: 0.2em 0;
   color: rgba(255, 255, 255, 1);
+}
+
+.combined.light {
+  margin-top: 2rem;
 }
 
 a {
@@ -31,6 +43,10 @@ a {
 
 .collapsible-body ol li {
   list-style-type: lower-roman;
+}
+
+.hero-area img {
+  width: 100%;
 }
 
 input[type=text] {
@@ -162,7 +178,26 @@ input[type=text] {
   width: 2rem;
 }
 
+.hero-area .text {
+  padding: 0 16px;
+}
+
 /** end accordion **/
+
+@media screen and (max-width: 48em) {
+  .hero-area .text h2,
+  .hero-area .text p {
+    color: rgba(0, 60, 108, 1);
+  }
+
+  .separate .wrap:nth-child(2) {
+    padding: 0;
+  }
+
+  .three.separate.flex .wrap .home-text-block {
+    margin: 0;
+    }
+}
 
 @media screen and (min-width: 48em) {
   .hero-area.layout-left {
@@ -191,7 +226,7 @@ input[type=text] {
       padding: 1em 2em;
       max-width: 26em;
       font-size: 1.1rem;
-
+      }
       h2,
       p {
         color: rgba(255, 255, 255, 1);
@@ -203,7 +238,6 @@ input[type=text] {
       }
     }
   }
-}
 
 .main-navigation .current,
 .main-navigation .current:focus,
@@ -239,6 +273,11 @@ a:focus-visible {
 
 #main {
   flex-grow: 1;
+  padding: 0 16px;
+}
+
+.main-footer #footer {
+  padding: 0 16px;
 }
 
 .main-content > :first-child {
