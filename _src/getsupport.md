@@ -8,7 +8,7 @@ banner:
   url: "/assets/images/get-support-banner.jpg"
 related:
   - title: "Learn more about the related laws and policies"
-    url: "https://www.ucsc.edu/"
+    url: "https://freespeech.ucsc.edu/learn/laws-policies.html"
   - title: "Report hate and bias"
     url: "https://reporthate.ucsc.edu/"
 ---
@@ -48,7 +48,7 @@ Undocumented Student Services (USS) provides a robust set of services and suppor
 
 [**Dean of Students**](https://deanofstudents.ucsc.edu/)
 
-The Dean of Students Office provides a myriad of services, programs and experiences for undergraduate and graduate students. With a focus on students, we strive to complement your academic experience with programs that promote wellness, identity development, cultural fluency, leadership development, academic success, and volunteerism.
+The Dean of Students Office provides myriad services, programs and experiences for undergraduate and graduate students. With a focus on students, we strive to complement your academic experience with programs that promote wellness, identity development, cultural fluency, leadership development, academic success, and volunteerism.
 
 ---
 
