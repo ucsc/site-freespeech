@@ -5,7 +5,7 @@ permalink: /learn/free-speech-statement.html
 left_navigation: learn
 related:
   - title: "Learn More About Related Laws and Policies"
-    url: "https://www.ucsc.edu/"
+    url: "https://freespeech.ucsc.edu/learn/laws-policies.html"
   - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
