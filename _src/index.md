@@ -21,5 +21,5 @@ featured:
     url: "/getsupport.html"
     image: "/assets/images/get-support-banner.jpg"
     alt: "Statues of people holding hand in circle"
-    description: "As a public university, UC Santa Cruz is governed by the same laws as any government body. That means that all members of our community enjoy the protections of the First Amendment."
+    description: "UC Santa Cruz offers many services to help students cope with the discomfort that the free and open exchange of ideas can bring."
 ---
