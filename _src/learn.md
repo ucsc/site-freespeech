@@ -23,14 +23,11 @@ The right of free speech in a university includes the right to acts of peaceful 
 
 For more information on expressing your message, please write to [deanofstudents@ucsc.edu](mailto:deanofstudents@ucsc.edu)
 
-### [UCSC Free Speech Statement](free-speech-statement.html)
-
-### [The First Amendment](first-amendment.html)
-
-### [First Amendment FAQs](first-amendment-faqs.html)
-
-### [Laws and Policies](laws-policies.html)
-
-### [Principles of Community and the First Amendment](principles-community-first-amendment.html)
+### Learn More:
+* [UCSC Free Speech Statement](free-speech-statement.html)
+* [The First Amendment](first-amendment.html)
+* [First Amendment FAQs](first-amendment-faqs.html)
+* [Laws and Policies](laws-policies.html)
+* [Principles of Community and the First Amendment](principles-community-first-amendment.html)
 
 
