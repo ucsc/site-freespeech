@@ -63,6 +63,7 @@ UC Santa Cruz offers tools and mechanisms to address words or actions that impac
 **What is academic freedom?**
 
 The principles of academic freedom protect freedom of inquiry and research, freedom of teaching and freedom of expression and publication. These freedoms enable the university to advance knowledge and to transmit it effectively to its students and to the public. The university also seeks to foster in its students a mature independence of mind, and this purpose cannot be achieved unless students and faculty are free within the classroom to express the widest range of viewpoints in accord with the standards of scholarly inquiry and professional ethics.
+
 » [Learn more about Academic Freedom.](https://senate.ucsc.edu/committees/caf-committee-on-academic-freedom/index.html)
 
 ---
