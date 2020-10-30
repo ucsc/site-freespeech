@@ -9,9 +9,9 @@ banner:
   text: "Students group discussing in a classroom"
   url: "/assets/images/learn-banner.jpg"
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About Related Laws and Policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report violations and concerns"
+  - title: "Report Violations and Concerns"
     url: "https://help.ucsc.edu"
 ---
 
