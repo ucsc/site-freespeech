@@ -27,13 +27,13 @@ Nevertheless, UC Santa Cruz offers tools and mechanisms to address words or acti
 
 ### Laws and Policies
 
-- Learn more about the related laws and policies
+- Learn more about the [related laws and policies](https://freespeech.ucsc.edu/learn/laws-policies.html)
 
 ### Report Violations and Concerns
 
 If you believe your rights have been violated or that you have witnessed an act of hate, bias, discrimination or harassment, learn how and where to report it.
 
-- Learn how to report rights violations
+- [Learn how to report rights violations](https://help.ucsc.edu)
 - [Learn how to report hate and bias](https://reporthate.ucsc.edu/)
 
 
