@@ -37,7 +37,7 @@ There are many different options you can choose. Very often, the speaker is deli
 
 **What can you not do?**
 
-It is very important to note that you cannot touch any speaker, no matter how offensive you view their speech. By doing so, you might violate laws or university policies, while also obscuring the validity of your point of view.
+It is very important to note that you **cannot** touch any speaker, no matter how offensive you view their speech. By doing so, you might violate laws or university policies, while also obscuring the validity of your point of view.
 
 ***
 
@@ -61,7 +61,7 @@ It is important to note that the principles of academic freedom protect freedom 
 
 **What can you do?**
 
-You can protest the speaker outside of the building in public areas. If you plan to use amplified sound during your protest, you"ll first need to get [approval](https://someca.ucsc.edu/resources/protocols.html#amplified-sound). You can also use social media to protest and raise awareness about the speaker and your objections or points of rebuttal.
+You can protest the speaker outside of the building in public areas. If you plan to use amplified sound during your protest, you"ll first need to get [approval](https://someca.ucsc.edu/resources/protocols.html#amplified-sound). You can also use social media to protest and raise awareness about the speaker and your objections or points of rebuttal. Another option, if there's a time for audience members to speak, such as a Q-and-A time, is to express a dissenting view or critique the speaker's position.
 
 ---
 
