@@ -10,16 +10,16 @@ featured:
   - title: Learn
     url: "/learn/"
     image: "/assets/images/learn-banner.jpg"
-    alt: "learning image"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet lacus in sagittis efficitur."
+    alt: "Students group discussing in a classroom"
+    description: "UC Santa Cruz is committed to assuring that all persons may exercise the constitutionally protected rights of free expression, speech, and assembly."
   - title: Act
     url: "/act"
     image: "/assets/images/act-banner.jpg"
-    alt: "Act image"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet lacus in sagittis efficitur."
+    alt: "Artist is painting next to Frida Kahlo mural"
+    description: "The First Amendment gives us all a great deal of power by allowing us to express ourselves almost without reservation."
   - title: Get Help
     url: "/getsupport.html"
     image: "/assets/images/get-support-banner.jpg"
-    alt: "Get Support"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet lacus in sagittis efficitur."
+    alt: "Statues of people holding hand in circle"
+    description: "As a public university, UC Santa Cruz is governed by the same laws as any government body. That means that all members of our community enjoy the protections of the First Amendment."
 ---
