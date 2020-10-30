@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/ucsc/site-freespeech/compare/v1.8.0...v1.9.0) (2020-10-30)
+
+
+### Features
+
+* Add 3 columns content ([86a3a18](https://github.com/ucsc/site-freespeech/commit/86a3a1803d7898d11e076584803535a46177af2a))
+* Added left navigation for Act and Learn ([00eb623](https://github.com/ucsc/site-freespeech/commit/00eb6234dbb810fd3496de272e0921b2a281c7eb))
+
 ## [1.8.0](https://github.com/ucsc/site-freespeech/compare/v1.7.0...v1.8.0) (2020-10-30)
 
 
