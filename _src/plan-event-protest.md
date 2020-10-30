@@ -13,17 +13,11 @@ related:
 
 Whether using amplified sound, bringing in a speaker or displaying symbolic structures, there are many things to consider when planning a protest or event at UC Santa Cruz.
 
-- Learn what to consider when planning an even
-
-*Expressing disagreement content was adapted from the University of California, San Diego, with permission.*
-
-*Civil disobedience content was adopted from the ACLU of Northern California and is available at* 
-
-[Know your rights Free Speech, Protests & Demonstrations in California](https://www.aclunc.org/sites/default/files/know_your_rights_free_speech.pdf)
+[ACLU: Know your rights Free Speech, Protests & Demonstrations in California](https://www.aclunc.org/sites/default/files/know_your_rights_free_speech.pdf)
 
 ### How to Protest Safely During COVID-19
 
-These harm-reduction tips were adapted and compiled from lists created by NAACP at UT Austin, Students for Sensible Drug Policy, NYC Healthy, <u>Raina Wellman and Lauren Sarkissian</u>. Thank you to these folks for doing the work!
+These harm-reduction tips were adapted and compiled from lists created by NAACP at UT Austin, Students for Sensible Drug Policy, NYC Healthy, Raina Wellman and Lauren Sarkissian. Thank you to these folks for doing the work!
 
 **Before Protesting**
 
