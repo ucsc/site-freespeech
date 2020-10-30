@@ -4,9 +4,9 @@ title: UCSC Free Speech Statement
 permalink: /learn/free-speech-statement.html
 left_navigation: learn
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About Related Laws and Policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 
