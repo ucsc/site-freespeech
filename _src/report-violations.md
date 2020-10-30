@@ -3,6 +3,7 @@ layout: page
 title: "Report Violations"
 menu: "Report Violations"
 permalink: /act/report-violations.html
+left_navigation: act
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

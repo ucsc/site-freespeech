@@ -3,6 +3,7 @@ layout: page
 title: "Scenarios"
 menu: "Scenarios"
 permalink: /act/scenarios.html
+left_navigation: act
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

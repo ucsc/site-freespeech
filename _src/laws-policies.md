@@ -2,6 +2,7 @@
 layout: page
 title: Laws and Policies
 permalink: /learn/laws-policies.html
+left_navigation: learn
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

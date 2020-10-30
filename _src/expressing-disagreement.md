@@ -3,6 +3,7 @@ layout: page
 title: "Expressing Disagreement: Scenarios and Civil Disobedience"
 menu: "Expressing Disagreement: Scenarios and Civil Disobedience"
 permalink: /act/expressing-disagreement.html
+left_navigation: act
 banner:
   text: "A person with the cardboard sign We Need A Change"
   url: "/assets/images/express-disagreement-banner.jpg"

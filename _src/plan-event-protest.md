@@ -3,6 +3,7 @@ layout: page
 title: "Planning an Event or Protest"
 menu: "Planning an Event or Protest"
 permalink: /act/plan-event-protest.html
+left_navigation: act
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

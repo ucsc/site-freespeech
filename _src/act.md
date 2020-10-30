@@ -4,6 +4,7 @@ title: Act
 menu: "Act"
 order: 2
 permalink: /act/
+left_navigation: act
 banner:
   text: "Artist is painting next to Frida Kahlo mural"
   url: "/assets/images/act-banner.jpg"

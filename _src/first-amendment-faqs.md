@@ -1,6 +1,8 @@
 ---
 layout: page
 title: First Amendment FAQs
+permalink: /learn/first-amendment-faqs.html
+left_navigation: learn
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

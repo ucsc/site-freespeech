@@ -3,6 +3,7 @@ layout: page
 title: "Civil Disobedience"
 menu: "Civil Disobedience"
 permalink: /act/civil-disobedience.html
+left_navigation: act
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

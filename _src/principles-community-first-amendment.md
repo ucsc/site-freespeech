@@ -2,6 +2,7 @@
 layout: page
 title: Principles of Community and the First Amendment
 permalink: /learn/principles-community-first-amendment.html
+left_navigation: learn
 related:
   - title: "Learn more about the related laws and policies"
     url: "https://www.ucsc.edu/"

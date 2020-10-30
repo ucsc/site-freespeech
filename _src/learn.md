@@ -4,6 +4,7 @@ title: Learn
 menu: "Learn"
 order: 1
 permalink: /learn/
+left_navigation: learn
 banner:
   text: "Students group discussing in a classroom"
   url: "/assets/images/learn-banner.jpg"
