@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/ucsc/site-freespeech/compare/v1.7.0...v1.8.0) (2020-10-30)
+
+
+### Features
+
+* Add cloudfare to Content-Security-Policy ([8b4f2dc](https://github.com/ucsc/site-freespeech/commit/8b4f2dcd07ad0ab9330c716c27718407bbf02581))
+* Added Aria tags to Accordion ([e7f0785](https://github.com/ucsc/site-freespeech/commit/e7f0785c681abb1c751157b0562611db7056218b))
+* Added banner images to subpages ([b6a2910](https://github.com/ucsc/site-freespeech/commit/b6a2910df8a694c99c2bd96a64eb814f95034f03))
+* Added expanding arrow for accordion ([0b994d8](https://github.com/ucsc/site-freespeech/commit/0b994d83e60b791b9a362c9a35969cb17fd6ab9f))
+* Added form to Contact page ([3b1187c](https://github.com/ucsc/site-freespeech/commit/3b1187cbc42224663786e9774add3c0652d06048))
+* Added full billboard, Three columns Learn, Act and Get Help ([070a05b](https://github.com/ucsc/site-freespeech/commit/070a05be53fea8800663f78f9af02446cd6e84d4))
+* Added Learn banner ([feff761](https://github.com/ucsc/site-freespeech/commit/feff761e62ef24c23f009b59107bc34b68ea5c5d))
+* Added related links to Get Support and FAQs ([4606dc7](https://github.com/ucsc/site-freespeech/commit/4606dc7aeda6ee6559db606a26006729a6cb8499))
+* contact ([b418ec1](https://github.com/ucsc/site-freespeech/commit/b418ec1be9290818d0e0529772ad7a27081ca878))
+
+
+### Bug Fixes
+
+* Added cloudfare to Content Security ([e728e39](https://github.com/ucsc/site-freespeech/commit/e728e39f4b6441cd4996218d182733263c7675dc))
+* font-size FAQs paeg ([4401257](https://github.com/ucsc/site-freespeech/commit/4401257b84a69472a9901a558917659aeea711c7))
+* Footer link ([1951968](https://github.com/ucsc/site-freespeech/commit/195196832e9a82f353ad34a979284389c83f1f4e))
+* Google font to fontsrc Content Security ([1a3509e](https://github.com/ucsc/site-freespeech/commit/1a3509e8d6dbba6db3ba3d6ea8e149af0673c37a))
+* homepage list ([0ae07aa](https://github.com/ucsc/site-freespeech/commit/0ae07aa369a29f79c586ce75a141543963b6ac60))
+* link color on FAQs page ([65f9959](https://github.com/ucsc/site-freespeech/commit/65f99590eae0322eda0ebc2c99c90b7b9a6159ab))
+* links color FAQs ([344caa9](https://github.com/ucsc/site-freespeech/commit/344caa927745f0907f695c2bbbf638ae3bd20e3d))
+* Listing style in FAQs accordion ([690cc4e](https://github.com/ucsc/site-freespeech/commit/690cc4e228a2294fd78bd92bb98c6cd8a55eeb60))
+* Remove Chancellor redirects ([8b555e0](https://github.com/ucsc/site-freespeech/commit/8b555e0cf03b42dad34d0d8e74982cbf88f29b6f))
+* reporting photo ([f882f59](https://github.com/ucsc/site-freespeech/commit/f882f5961183c632f23dcf36702badc3996c7be1))
+
 ## [1.7.0](https://github.com/ucsc/site-freespeech/compare/v1.6.0...v1.7.0) (2020-10-29)
 
 
