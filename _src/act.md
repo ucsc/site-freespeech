@@ -10,7 +10,7 @@ banner:
   url: "/assets/images/act-banner.jpg"
 related:
   - title: "Learn more about the related laws and policies"
-    url: "https://www.ucsc.edu/"
+    url: "https://freespeech.ucsc.edu/learn/laws-policies.html"
   - title: "Report hate and bias"
     url: "https://reporthate.ucsc.edu/"
 ---
