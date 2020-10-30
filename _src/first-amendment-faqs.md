@@ -95,11 +95,11 @@ If someone is conducting a protest in a public place, there are no policies that
 ---
 **Laws, Policies and The Principles of Community Laws and Policies**
 
-- Learn more about the related laws and policies
+- Learn more about the [related laws and policies](https://freespeech.ucsc.edu/learn/laws-policies.html)
 
 ---
 **Principles of Community**
 
-- Learn more about the Principles of Community and the First Amendment
+- [Learn more about the Principles of Community and the First Amendment](https://freespeech.ucsc.edu/learn/principles-community-first-amendment.html)
 - [Learn more about the UC Principles Against Intolerance](https://regents.universityofcalifornia.edu/regmeet/mar16/e1attach.pdf)
 
