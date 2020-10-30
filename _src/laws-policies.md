@@ -52,7 +52,7 @@ The University of California is committed to upholding and preserving principles
 ---
 ### **UC Policies and Procedures Protecting Free Expression**
 
-- [Student Handbook and University Policies](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/)
+- **[UC Santa Cruz Student Handbook and University Policies](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/)**
 
 - **UC Policies Applying to Campus Activities, Organizations, and Students (PACAOS)**
   - [30.00: Policy on Speech and Advocacy](http://policy.ucop.edu/doc/2710523/PACAOS-30)
@@ -64,7 +64,7 @@ In public forums such as the Quarry Plaza, the university may not regulate the c
 
 - Time: Amplified sound is [requires advance approval](https://someca.ucsc.edu/resources/protocols.html#amplified-sound) in order to ensure classes, meetings, and other activities are not disturbed
 - Place: Posting of information on university buildings is limited to designated bulletin boards. [Read more](https://crown.ucsc.edu/activities/flier_posting_numbers.pdf).
-- Manner: Distribution of literature may not obstruct the ingress and egress from university buildings. LINK
+- Manner: Distribution of literature may not obstruct the [ingress and egress from university buildings](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/).
 
 A more complete list of university time, place, and manner restrictions can be found in the [Policy on Speech and Advocacy](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/30.00.pdf).
 
