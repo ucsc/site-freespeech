@@ -31,7 +31,7 @@ The first step to planning and executing a successful and effective event is to 
 ---
 ### Report Violations and Concerns
 
-- Learn how to report rights violations
+- [Learn how to report rights violations](https://help.ucsc.edu)
 - [Learn how to report hate and bias](https://reporthate.ucsc.edu/)
 
 ---
