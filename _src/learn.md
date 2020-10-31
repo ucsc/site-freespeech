@@ -9,10 +9,10 @@ banner:
   text: "Students group discussing in a classroom"
   url: "/assets/images/learn-banner.jpg"
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About Related Laws and Policies"
     url: "https://www.ucsc.edu/"
   - title: "Report Violations and Concerns"
-    url: "https://www.ucsc.edu/"
+    url: "https://help.ucsc.edu"
 ---
 
 UC Santa Cruz is committed to assuring that all persons may exercise the constitutionally protected rights of free expression, speech, and assembly. Further, the University seeks to maintain a safe environment for the free expression of ideas and ideals.
@@ -23,14 +23,11 @@ The right of free speech in a university includes the right to acts of peaceful 
 
 For more information on expressing your message, please write to [deanofstudents@ucsc.edu](mailto:deanofstudents@ucsc.edu)
 
-### [UCSC Free Speech Statement](free-speech-statement.html)
-
-### [The First Amendment](first-amendment.html)
-
-### [First Amendment FAQs](first-amendment-faqs.html)
-
-### [Laws and Policies](laws-policies.html)
-
-### [Principles of Community and the First Amendment](principles-community-first-amendment.html)
+### Learn More:
+* [UCSC Free Speech Statement](free-speech-statement.html)
+* [The First Amendment](first-amendment.html)
+* [First Amendment FAQs](first-amendment-faqs.html)
+* [Laws and Policies](laws-policies.html)
+* [Principles of Community and the First Amendment](principles-community-first-amendment.html)
 
 

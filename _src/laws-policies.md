@@ -4,9 +4,9 @@ title: Laws and Policies
 permalink: /learn/laws-policies.html
 left_navigation: learn
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About the Related Laws and Policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 
@@ -39,69 +39,48 @@ The University of California is committed to upholding and preserving principles
 
 
 ---
-### **Words from the UC**
+### **Words from UCSC**
 
-[Statement from Cindy]
+> Free speech is both constitutionally protected and a fundamental value of our campus, and we have strong policies in place that protect it. Every part of the university mission depends on the robust exchange of ideas and freedom of inquiry. We embrace our responsibility to sustain the expression of a wide range of viewpoints without implying our endorsement of them.
+
+> It is not always easy to align our responsibility for protecting free speech with our values as a community. We are committed to fostering an inclusive community, especially for those traditionally under-represented, and at times, viewpoints espoused by those speaking on our campus or at events sponsored by campus affiliates challenge our community-building efforts. The exchange ideas and viewpoints can be uncomfortable, but it is a vital process that we work to improve all the time. If we are committed to the advancement of knowledge and justice, which we are, we must be committed to freedom of expression.
+
+> Universities, importantly, also have the ability to model respectful discourse, to show how those who hold opposing points of view can engage passionately but also civilly and respectfully. 
+
+> *–Chancellor Cynthia Larive*
 
 ---
 ### **UC Policies and Procedures Protecting Free Expression**
 
-- **UC Davis Policy and Procedure Manual (PPM)**
-  - [400-01: Freedom of Expression](https://ucdavispolicy.ellucid.com/documents/view/37/active/)
-  - [270-20: Use and Reservation of University Properties/Event Arrangements](https://ucdavispolicy.ellucid.com/documents/view/247)
-  - [310-25: Distribution of Information and Literature](https://ucdavispolicy.ellucid.com/documents/view/367)
-  - [310-26: Distribution of Periodical Publications](https://ucdavispolicy.ellucid.com/documents/view/369)
-  - [310-27: Posting of Information](https://ucdavispolicy.ellucid.com/documents/view/375)
+- **[UC Santa Cruz Student Handbook and University Policies](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/)**
 
 - **UC Policies Applying to Campus Activities, Organizations, and Students (PACAOS)**
   - [30.00: Policy on Speech and Advocacy](http://policy.ucop.edu/doc/2710523/PACAOS-30)
   - [40.00: Policy on Use of University Property](http://policy.ucop.edu/doc/2710524/PACAOS-40)
 
-- **Time, Place and Manner Restrictions**
+#### **Time, Place and Manner Restrictions**
 
 In public forums such as the Quarry Plaza, the university may not regulate the content of speech but can place reasonable time, place, and manner restrictions. Examples of permissible university time, place, and manner restrictions include:
 
 - Time: Amplified sound is [requires advance approval](https://someca.ucsc.edu/resources/protocols.html#amplified-sound) in order to ensure classes, meetings, and other activities are not disturbed
 - Place: Posting of information on university buildings is limited to designated bulletin boards. [Read more](https://crown.ucsc.edu/activities/flier_posting_numbers.pdf).
-- Manner: Distribution of literature may not obstruct the ingress and egress from university buildings. LINK
+- Manner: Distribution of literature may not obstruct the [ingress and egress from university buildings](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/).
 
 A more complete list of university time, place, and manner restrictions can be found in the [Policy on Speech and Advocacy](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/30.00.pdf).
 
 
 
 ---
-### **Other Resources**
-
-[United States Courts: What Does Free Speech Mean?](http://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does)
-
-[First Amendment Center](http://www.firstamendmentcenter.org/)
-
-[American Civil Liberties Union (ACLU)](https://www.aclu.org/)
-
-- [Free speech](https://www.aclu.org/)
-
-- [Know your rights](https://www.aclu.org/know-your-rights/what-do-if-your-rights-are-violated-demonstration-or-protest)
-
-[National Lawyers Guild (NLG)](https://www.nlg.org/)
-
-[Foundation for Individual Rights in Education (FIRE)](https://www.thefire.org/)
-
-[UC Santa Cruz Student Conduct and Community Standards](https://deanofstudents.ucsc.edu/student-conduct/index.html)
-
-[UC National Center for Free Speech](https://freespeechcenter.universityofcalifornia.edu/)
-
-
----
 ### **Principles of Community**
 
-Learn more about the Principles of Community and the First Amendmen
+Learn more about the [Principles of Community and the First Amendment](https://freespeech.ucsc.edu/learn/principles-community-first-amendment.html)
 
 ---
 ### **Report Violations and Concerns**
 
 If you believe your rights have been violated or that you have witnessed an act of hate, bias, discrimination or harassment, learn how and where to report it.
 
-- Learn how to report rights violations
+- [Learn how to report rights violations](https://deanofstudents.ucsc.edu/student-conduct/rules-violation.html)
 - [Learn how to report hate and bias](https://reporthate.ucsc.edu/)
 
 

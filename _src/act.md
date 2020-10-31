@@ -10,7 +10,7 @@ banner:
   url: "/assets/images/act-banner.jpg"
 related:
   - title: "Learn more about the related laws and policies"
-    url: "https://www.ucsc.edu/"
+    url: "https://freespeech.ucsc.edu/learn/laws-policies.html"
   - title: "Report hate and bias"
     url: "https://reporthate.ucsc.edu/"
 ---
@@ -28,30 +28,11 @@ The first step to planning and executing a successful and effective event is to 
 - Other resources to consider and consult include: The [UCSC Major Events Policy](https://deanofstudents.ucsc.edu/pdf/Major-events-policy.pdf), [SOAR policies](http://soar.ucsc.edu/event_planning.htm) related to student organization events and the [Principles of Community](http://www.ucsc.edu/about/principles-community.html).
 - There are a number of resources available to assist you in understanding and applying these policies, as well as planning your event. In addition, for information on public speech areas in your college communities, and to reserve space, please contact your college office, or the Dean of Students office at 831-459-4446.
 
----
-### Report Violations and Concerns
-
-- Learn how to report rights violations
-- [Learn how to report hate and bias](https://reporthate.ucsc.edu/)
-
----
-
-### Expressing Disagreement and Scenarios
-
-Explore some of the ways you can use your First Amendment rights to express disagreement at UC Santa Cruz and see some scenarios that are designed to help you understand freedom of expression and what you should do when encountering offensive speech. 
-
-» Learn how to express disagreement and how to respond to offensive speech
-
-### Planning an Event or Protest
-
-Whether using amplified sound, bringing in a speaker or displaying symbolic structures, there are many things to consider when planning a protest or event at UC Santa Cruz.
-
-» Learn what to consider when planning an event
-
-### [Expressing Disagreement: Scenarios and Civil Disobedience](/act/expressing-disagreement.html)
-### [Scenarios](/act/scenarios.html)
-### [Civil Disobedience](/act/civil-disobedience.html)
-### [Planning an Event or Protest](/act/plan-event-protest.html)
-### [Planning an Event](/act/plan-event.html)
-### [Report Violations](/act/report-violations.html)
+### Learn More
+* [Expressing Disagreement: Scenarios and Civil Disobedience](/act/expressing-disagreement.html)
+* [Scenarios](/act/scenarios.html)
+* [Civil Disobedience](/act/civil-disobedience.html)
+* [Planning an Event or Protest](/act/plan-event-protest.html)
+* [Planning an Event](/act/plan-event.html)
+* [Report Violations](/act/report-violations.html)
 

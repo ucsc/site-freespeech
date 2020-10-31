@@ -4,15 +4,15 @@ title: Principles of Community and the First Amendment
 permalink: /learn/principles-community-first-amendment.html
 left_navigation: learn
 related:
-  - title: "Learn more about the related laws and policies"
-    url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
+  - title: "Learn More About Related Laws and Policies"
+    url: "https://freespeech.ucsc.edu/learn/laws-policies.html"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 
 Independent thought and diversity of opinions are the essence of the university, and freedom of expression is necessary for the university to fulfill its mission of producing and disseminating knowledge. Without the ability of its members to freely hear, express and debate different ideas and points of view, the university would lack the culture of free inquiry that lies at the foundation of the academic enterprise. In furtherance of this mission, the university's aspire.
 
-Though the Principles of Community, UC Santa Cruz is committed to promoting and protecting an environment that values and supports every person in an atmosphere of civility, honesty, cooperation, professionalism and fairness.
+Though the [Principles of Community](https://www.ucsc.edu/about/principles-community.html), UC Santa Cruz is committed to promoting and protecting an environment that values and supports every person in an atmosphere of civility, honesty, cooperation, professionalism and fairness.
 
 UC Santa Cruz expects that every campus member will practice these Principles of Community.
 
@@ -27,13 +27,13 @@ Nevertheless, UC Santa Cruz offers tools and mechanisms to address words or acti
 
 ### Laws and Policies
 
-- Learn more about the related laws and policies
+- Learn more about the [related laws and policies](https://freespeech.ucsc.edu/learn/laws-policies.html)
 
 ### Report Violations and Concerns
 
 If you believe your rights have been violated or that you have witnessed an act of hate, bias, discrimination or harassment, learn how and where to report it.
 
-- Learn how to report rights violations
+- [Learn how to report rights violations](https://help.ucsc.edu)
 - [Learn how to report hate and bias](https://reporthate.ucsc.edu/)
 
 

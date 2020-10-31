@@ -4,9 +4,9 @@ title: First Amendment FAQs
 permalink: /learn/first-amendment-faqs.html
 left_navigation: learn
 related:
-  - title: "Learn more about the related laws and policies"
-    url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
+  - title: "Learn More About Related Laws and Policies"
+    url: "https://freespeech.ucsc.edu/learn/laws-policies.html"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 
@@ -63,6 +63,7 @@ UC Santa Cruz offers tools and mechanisms to address words or actions that impac
 **What is academic freedom?**
 
 The principles of academic freedom protect freedom of inquiry and research, freedom of teaching and freedom of expression and publication. These freedoms enable the university to advance knowledge and to transmit it effectively to its students and to the public. The university also seeks to foster in its students a mature independence of mind, and this purpose cannot be achieved unless students and faculty are free within the classroom to express the widest range of viewpoints in accord with the standards of scholarly inquiry and professional ethics.
+
 » [Learn more about Academic Freedom.](https://senate.ucsc.edu/committees/caf-committee-on-academic-freedom/index.html)
 
 ---
@@ -95,11 +96,11 @@ If someone is conducting a protest in a public place, there are no policies that
 ---
 **Laws, Policies and The Principles of Community Laws and Policies**
 
-- Learn more about the related laws and policies
+- Learn more about the [related laws and policies](https://freespeech.ucsc.edu/learn/laws-policies.html)
 
 ---
 **Principles of Community**
 
-- Learn more about the Principles of Community and the First Amendment
+- [Learn more about the Principles of Community and the First Amendment](https://freespeech.ucsc.edu/learn/principles-community-first-amendment.html)
 - [Learn more about the UC Principles Against Intolerance](https://regents.universityofcalifornia.edu/regmeet/mar16/e1attach.pdf)
 
