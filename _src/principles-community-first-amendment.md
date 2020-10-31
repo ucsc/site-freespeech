@@ -12,7 +12,7 @@ related:
 
 Independent thought and diversity of opinions are the essence of the university, and freedom of expression is necessary for the university to fulfill its mission of producing and disseminating knowledge. Without the ability of its members to freely hear, express and debate different ideas and points of view, the university would lack the culture of free inquiry that lies at the foundation of the academic enterprise. In furtherance of this mission, the university's aspire.
 
-Though the Principles of Community, UC Santa Cruz is committed to promoting and protecting an environment that values and supports every person in an atmosphere of civility, honesty, cooperation, professionalism and fairness.
+Though the [Principles of Community](https://www.ucsc.edu/about/principles-community.html), UC Santa Cruz is committed to promoting and protecting an environment that values and supports every person in an atmosphere of civility, honesty, cooperation, professionalism and fairness.
 
 UC Santa Cruz expects that every campus member will practice these Principles of Community.
 
