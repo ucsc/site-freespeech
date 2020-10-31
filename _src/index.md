@@ -6,6 +6,7 @@ hero:
     text: "Two people wearing mask - with text I have a voice and speak up"
     headline: "Express Yourself"
     description: "Free expression is a cornerstone of the U.S. Constitution and academic freedom."
+    link: "/learn/"
 featured:
   - title: Learn
     url: "/learn/"
