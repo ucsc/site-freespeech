@@ -9,7 +9,7 @@ related:
   - title: "Report hate and bias"
     url: "https://reporthate.ucsc.edu/"
 ---
-
+*Messages through this form go to the Dean of Students Office.*
 <form name="contact" method="POST" data-netlify="true">
   <div class="pa2">
     <label for="name" class="f5 db mb2 navy">Your name</label>
