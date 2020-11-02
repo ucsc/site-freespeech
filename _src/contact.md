@@ -4,9 +4,9 @@ title: Contact
 menu: "Contact"
 order: 5
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About Related Laws and Policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 *Messages sent through this form go to the Dean of Students Office.*
