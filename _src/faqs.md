@@ -19,7 +19,7 @@ related:
       </div>
       <div class="faq-title">{{ faq.question }}</div>
      </div>
-     <div class="collapsible-body" aria-labelledby="accordion-header-{{ faq.content-marking }}">{{ faq.answer}}</div>
+     <div class="collapsible-body" aria-labelledby="accordion-header-{{ faq.content-marking }}">{{ faq.answer }}</div>
   </li>
   {% endfor %}
 </ul>
