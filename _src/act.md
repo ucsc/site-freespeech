@@ -9,9 +9,9 @@ banner:
   text: "Artist is painting next to Frida Kahlo mural"
   url: "/assets/images/act-banner.jpg"
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About Related Laws and Policies"
     url: "https://freespeech.ucsc.edu/learn/laws-policies.html"
-  - title: "Report hate and bias"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 

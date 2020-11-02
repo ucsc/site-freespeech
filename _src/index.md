@@ -18,7 +18,7 @@ featured:
     image: "/assets/images/act-banner.jpg"
     alt: "Artist is painting next to Frida Kahlo mural"
     description: "The First Amendment gives us all a great deal of power by allowing us to express ourselves almost without reservation."
-  - title: Get Help
+  - title: Get Support
     url: "/getsupport.html"
     image: "/assets/images/get-support-banner.jpg"
     alt: "Statues of people holding hand in circle"
