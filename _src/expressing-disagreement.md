@@ -8,9 +8,9 @@ banner:
   text: "A person with the cardboard sign We Need A Change"
   url: "/assets/images/express-disagreement-banner.jpg"
 related:
-  - title: "Learn more about the related laws and policies"
+  - title: "Learn More About Related Laws and Policies"
     url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
+  - title: "Report Hate and Bias"
     url: "https://reporthate.ucsc.edu/"
 ---
 
