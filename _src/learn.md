@@ -15,17 +15,24 @@ related:
     url: "https://help.ucsc.edu"
 ---
 
-UC Santa Cruz is committed to assuring that all persons may exercise the constitutionally protected rights of free expression, speech, and assembly. Further, the University seeks to maintain a safe environment for the free expression of ideas and ideals.
+The First Amendment to the U.S. Constitution is only 45 words long, yet it protects our most basic freedoms. It reads in full:
 
-The ongoing opportunity for the expression of a variety of viewpoints is at the core of this commitment. As campus citizens, it is imperative that we live up to the responsibilities that accompany these rights.
+"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."
+<br>
+>*“But, above all else, the First Amendment means that government has no power to restrict expression because of its message, its ideas, its subject matter, or its content.”<br/><br />
+—Supreme Court Justice Thurgood Marshall, Police Department of Chicago v. Mosley (1972)*
 
-The right of free speech in a university includes the right to acts of peaceful dissent, protests in peaceable assembly, and orderly demonstrations which include picketing and the distribution of leaflets. These are permitted on the UC Santa Cruz campus, subject to approval as to time, place and manner, unless or until they disrupt regular and essential operations of the University or significantly infringe on the rights of others.
+
+## UC Santa Cruz Free Speech Statement
+
+> Freedom of thought, inquiry, speech and lawful assembly are fundamental rights of all persons. These rights include the freedom to express opinions; to hear, express and debate various views, no matter how unpopular; and to voice criticism. Free speech is uniquely important to the University as it brings about a free interchange of ideas integral to the University’s fundamental mission of teaching, research and public service.
+
+> Protests and civil disobedience have played an historic role on the University campuses, in bringing important and beneficial changes within society, and in the development of our democracy. However, civil disobedience is not protected speech under the Constitution.The Constitution does not guarantee any right to engage in civil disobedience – which, by its very definition, involves the violation of laws or regulations – without incurring consequences. Civil disobedience may have a negative effect on the protected interests of others and may interfere with University business or threaten public safety or University assets, in ways that may require the University to act to protect those other interests.
+
 
 For more information on expressing your message, please write to [deanofstudents@ucsc.edu](mailto:deanofstudents@ucsc.edu)
 
 ### Learn More:
-* [UCSC Free Speech Statement](free-speech-statement.html)
-* [The First Amendment](first-amendment.html)
 * [First Amendment FAQs](first-amendment-faqs.html)
 * [Laws and Policies](laws-policies.html)
 * [Principles of Community and the First Amendment](principles-community-first-amendment.html)
