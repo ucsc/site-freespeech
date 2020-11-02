@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/ucsc/site-freespeech/compare/v1.9.0...v1.10.0) (2020-11-02)
+
+
+### Features
+
+* Added ([36beff3](https://github.com/ucsc/site-freespeech/commit/36beff3703305dc175e29fb8bc3253dd3feaaea9))
+* Added accordion to First Amendment FAQs ([9427005](https://github.com/ucsc/site-freespeech/commit/94270053889a1abd42c437baf28270fb9cdb08a3))
+* Added image to principles community ([287cf51](https://github.com/ucsc/site-freespeech/commit/287cf51551dd6fa843210acc3b054af9377121c3))
+* Added Report Violiation link ([144fc7b](https://github.com/ucsc/site-freespeech/commit/144fc7b89a48b13b125e0e388dcfeda4d97ea943))
+* Billboard link to learn page ([781db61](https://github.com/ucsc/site-freespeech/commit/781db61f833038ad0044149357c947680b7004dd))
+
+
+### Bug Fixes
+
+* Billboard text ([4fb2f03](https://github.com/ucsc/site-freespeech/commit/4fb2f038f6a1d18fae816a9a04528b3a8f1305ae))
+* cropped the Resources image ([c5ad842](https://github.com/ucsc/site-freespeech/commit/c5ad842017a1a8a1c7b00b118dec0405e0484b40))
+* Remove Chalking in FAQs ([3f1ceb1](https://github.com/ucsc/site-freespeech/commit/3f1ceb12f5ddb03e0543ec653f255b6a4f5ac66d))
+
 ## [1.9.0](https://github.com/ucsc/site-freespeech/compare/v1.8.0...v1.9.0) (2020-10-30)
 
 
