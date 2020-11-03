@@ -13,7 +13,6 @@ related:
 
 Whether using amplified sound, bringing in a speaker or displaying symbolic structures in the Quarry Plaza, there are many things to consider. When planning an event, a registered student organization (RSO) must make space reservations through [Student Organization Advising & Resources](http://soar.ucsc.edu/v2/). Once space is reserved, SOAR can help provide logistical support and guidance, including help with time, place and manner regulations, to set the stage for a successful event. Learn more by visiting [SOAR’s website](http://soar.ucsc.edu/v2/planning.html).
 
-Groups, organizations and individuals planning an event or protest that are not RSOs make space reservations through ?.
 
 **Time, Place and Manner Restrictions**
 
