@@ -13,7 +13,7 @@ related:
 
 ### Student Rights and Grievances
 
-At the University of California, students have constitutionally protected rights of free expression, speech, assembly and worship, as well as rights to due process and equal protection. The [Dean of Students](https://deanofstudents.ucsc.edu/) provides advice and assistance to students for answering questions and resolving concerns about their rights, as well as informal and formal grievance procedures. If you have questions about your rights, you may contact the office at .
+At the University of California, students have constitutionally protected rights of free expression, speech, assembly and worship, as well as rights to due process and equal protection. The [Dean of Students](https://deanofstudents.ucsc.edu/) provides advice and assistance to students for answering questions and resolving concerns about their rights, as well as informal and formal grievance procedures. If you have questions about your rights, you may [contact the office](https://deanofstudents.ucsc.edu/about/contact.html).
 
 [Discrimination](https://equity.ucsc.edu/index.html) is an illegal or prohibited adverse employment or educational action or harassment based on race, color, national origin, religion, sex, gender, gender expression, gender identity, pregnancy, physical or mental disability, medical condition (cancer-related or genetic characteristics), genetic information (including family medical history), ancestry, marital status, age, sexual orientation, citizenship or service in the uniformed services.
 
