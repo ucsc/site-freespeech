@@ -10,7 +10,7 @@ related:
     url: "https://reporthate.ucsc.edu/"
 ---
 
-Generally, the First Amendment to the U.S. Constitution protects all speech, although the following forms of speech enjoy varying degrees of lesser protection:
+The First Amendment protects many forms of speech, but there are some exceptions to this protection.
 
 <ul class="collapsible" data-collapsible="accordion">
   {% for faq in site.data.first-amendment-faqs %}
