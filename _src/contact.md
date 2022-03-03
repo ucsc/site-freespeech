@@ -25,7 +25,7 @@ Messages sent through this form go to the Dean of Students Office.
   <label for="comment" class="f5 db mb2 navy">Comments</label>
     <textarea id="comment" name="comment" class="db border-box hover-black w-100 measure h4 ba b--black-20 pa2 br2 mb2"></textarea>
   </div>
-  <div data-netlify-recaptcha="true" style="margin:1em 0;"></div>
+  <div data-netlify-recaptcha="true"></div>
   <div class="pa2">
     <button class="f5 br3 link dim ph3 pv3 mb2 dib white bg-dark-blue" type="submit">Submit</button>
   </div>
