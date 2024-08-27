@@ -6,9 +6,9 @@ permalink: /act/report-violations.html
 left_navigation: act
 related:
   - title: "Learn more about the related laws and policies"
-    url: "https://www.ucsc.edu/"
-  - title: "Report hate and bias"
-    url: "https://reporthate.ucsc.edu/"
+    url: "https://freespeech.ucsc.edu/learn/laws-policies"
+  - title: "Report incidents of bias"
+    url: "https://biasresponse.ucsc.edu/"
 ---
 
 ### Student Rights and Grievances
@@ -23,13 +23,10 @@ Harassment is verbal or physical conduct that unreasonably interferes with a per
 
 Students who believe they have experienced or witnessed an act of discrimination or harassment may [initiate a report online](https://equity.ucsc.edu/index.html) to bring their concerns to the university's attention so the incident may be addressed appropriately.   
 
-### Report Hate and Bias
+### Reporting
 
 As reflected in our Principles of Community, the UC Santa Cruz community is “committed to promoting and protecting an environment that values and supports every person in an atmosphere of civility, honesty, cooperation, professionalism and fairness.”
 
 Accordingly, UC Santa Cruz strives to maintain an inclusive and diverse work and learning environment free of hate and bias.
 
-If you believe you have experienced or witnessed an act of hate or bias, [report it](https://reporthate.ucsc.edu/) so the university can follow up appropriately. The university keeps track of these reports and uses them to inform the campus community on climate issues of concern.
-
-- [Express your concern online at https://reporthate.ucsc.edu/](https://reporthate.ucsc.edu/)
-
+UC Santa Cruz students experiencing acts of bias can report the incident through our [Bias Response website](https://biasresponse.ucsc.edu/). Students should report discrimination and harassment to the [Office of Equity and Equal Protection](https://equity.ucsc.edu/).
