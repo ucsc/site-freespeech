@@ -25,7 +25,7 @@ So, what can you do with your First Amendment rights? This section covers variou
 The first step to planning and executing a successful and effective event is to be informed on relevant campus policies:
 
 - Your primary resource is the [Student Policies and Regulations Handbook](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/index.html). Please review the Student Policies and Regulations Handbook for specific information related to public areas on campus and use of amplified sound.  Relevant policies can be found in Sections 30.00 and 40.00.
-- Other resources to consider and consult include: The [UCSC Major Events Policy](https://deanofstudents.ucsc.edu/pdf/Major-events-policy.pdf), [SOAR policies](http://soar.ucsc.edu/v2/planning.html) related to student organization events and the [Principles of Community](http://www.ucsc.edu/about/principles-community.html).
+- Other resources to consider and consult include: The [interim Conduct Regulations](https://ucscpolicy.ellucid.com/documents/view/218), [UCSC Major Events Policy](https://deanofstudents.ucsc.edu/pdf/Major-events-policy.pdf), [SOAR policies](http://soar.ucsc.edu/v2/planning.html) related to student organization events and the [Principles of Community](http://www.ucsc.edu/about/principles-community.html).
 - There are a number of resources available to assist you in understanding and applying these policies, as well as planning your event. In addition, for information on public speech areas in your college communities, and to reserve space, please contact your college office, or the Dean of Students office at 831-459-4446.
 
 ### Learn More
