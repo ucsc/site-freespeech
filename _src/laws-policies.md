@@ -63,7 +63,7 @@ The University of California is committed to upholding and preserving principles
 
 In public forums such as the Quarry Plaza, the university may not regulate the content of speech but can place reasonable time, place, and manner restrictions. Examples of permissible university time, place, and manner restrictions include:
 
-- Time: Amplified sound is [requires advance approval](https://someca.ucsc.edu/resources/protocols.html#amplified-sound) in order to ensure classes, meetings, and other activities are not disturbed
+- Time: Amplified sound is [requires advance approval](https://deanofstudents.ucsc.edu/pdf/Major-events-policy.pdf) in order to ensure classes, meetings, and other activities are not disturbed
 - Place: Posting of information on university buildings is limited to designated bulletin boards. [Read more](https://crown.ucsc.edu/activities/flier_posting_numbers.pdf).
 - Manner: Distribution of literature may not obstruct the [ingress and egress from university buildings](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/).
 
