@@ -29,4 +29,4 @@ As reflected in our Principles of Community, the UC Santa Cruz community is “c
 
 Accordingly, UC Santa Cruz strives to maintain an inclusive and diverse work and learning environment free of hate and bias.
 
-UC Santa Cruz students experiencing acts of bias can report the incident through our [Bias Response website](https://biasresponse.ucsc.edu/). Students should report discrimination and harassment to the [Office of Equity and Equal Protection](https://equity.ucsc.edu/).
+UC Santa Cruz students should report discrimination and harassment to the [Office of Equity and Equal Protection](https://equity.ucsc.edu/).
