@@ -42,7 +42,7 @@ For more information on expressing your message, please write to [deanofstudents
 **What are the four types of forums?**
 
 - **Traditional Public Forums:** Spaces such as sidewalks and areas that have traditionally been open to political speech and debate. In those areas, speakers enjoy the strongest First Amendment protections.
-- **Designated Public Forums:**Spaces where the government chooses to allow speech generally (the quads in each College for example).
+- **Designated Public Forums:** Spaces where the government chooses to allow speech generally (the quads in each College for example).
 - **Limited Public Forums:** Spaces where the government allows certain types of speech by certain groups (e.g. bulletin boards in the Colleges).
 - **Nonpublic Forums:** Spaces not made available for public expression (e.g. faculty offices).
 
