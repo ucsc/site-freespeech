@@ -51,7 +51,7 @@ For more information on expressing your message, please write to [deanofstudents
 
 - In a **non-public forum**, the government:
     - Can claim that there are no general free speech rights because the space is designated for other kinds of activities. For example, administrative offices are not places where people can generally access for the purpose of allowing them to express viewpoints on a range of subjects.
-- In a l**imited public forum**, the government may impose restrictions that are:
+- In a **limited public forum**, the government may impose restrictions that are:
     - Viewpoint neutral
     - And reasonable in light of the purpose of the forum
 - In **public and designated public forums** the government may impose restrictions that are:
