@@ -24,4 +24,4 @@ In public forums such as Quarry Plaza, the university may not regulate the conte
 - Place: [Posting of information](https://someca.ucsc.edu/plan-your-project/protocols.html#posting-fliers) on university buildings is limited to designated bulletin boards.
 - Manner: Distribution of literature may not [obstruct the ingress and egress](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/100.003.pdf) from university buildings. 
 
-A more complete list of university time, place, and manner restrictions can be found in the [Student Handbook](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/index.html) and the interim [Major Events Policy]([https://deanofstudents.ucsc.edu/pdf/Major-events-policy.pdf](https://ucscpolicy.ellucid.com/pman/documents/view/238/?security=44967c3c459180e329345982ccada27606a02039).
+A more complete list of university time, place, and manner restrictions can be found in the [Student Handbook](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/index.html) and the interim [Major Events Policy](https://ucscpolicy.ellucid.com/pman/documents/view/238/?security=44967c3c459180e329345982ccada27606a02039).
