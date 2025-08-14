@@ -13,7 +13,7 @@ related:
 
 Whether using amplified sound, bringing in a speaker or displaying symbolic structures in the Quarry Plaza, there are many things to consider. When planning an event, a registered student organization (RSO) must make space reservations through [Student Organization Advising & Resources](http://soar.ucsc.edu/). Once space is reserved, SOAR can help provide logistical support and guidance, including help with time, place and manner regulations, to set the stage for a successful event. Learn more by visiting [SOAR’s website](https://soar.ucsc.edu/event-planning/index.html).
 
-* [Outdoor Amplified Sound Permit]Application(https://docs.google.com/forms/d/e/1FAIpQLSdfVVhxOr2oj4_Vpo0v5fTNIzt76T1HFecvuDo4e3_2VlsO-A/viewform)
+* [Outdoor Amplified Sound Permit Application](https://docs.google.com/forms/d/e/1FAIpQLSdfVVhxOr2oj4_Vpo0v5fTNIzt76T1HFecvuDo4e3_2VlsO-A/viewform)
 * [Temporary Structures Permit Application](https://docs.google.com/forms/d/e/1FAIpQLSduyFMwXQ-hui4Zx5dSc2JHHpsP5CzhLCZSsAK3hF_gZwBZ3w/viewform)
 
 **Time, Place and Manner Restrictions**
