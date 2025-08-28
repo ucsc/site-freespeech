@@ -11,27 +11,51 @@ related:
     url: "https://reporthate.ucsc.edu/"
 ---
 
+## Planning a Protest
 
-Whether using amplified sound, bringing in a speaker or displaying symbolic structures in the Quarry Plaza, there are many things to consider. Registered student organizations, labor unions, non-registered student organizations, and nonaffiliates need to fill out permit applications for outdoor amplified sound and for temporary stuctures:
+When planning a protest, Protest Organizers have several questions to consider including:
 
-* [Outdoor Amplified Sound Permit Application](https://forms.gle/5DoDaHKPTue7VbzH7)
-* [Temporary Structures Permit Application](https://forms.gle/LWTZSTPW5xryuFXc7) 
+* Where is my protest going to be held?    
+* What kind of activities will my protest include?    
+* What restrictions or policies do I need to follow?
 
-When planning an event, a registered student organization (RSO) must make space reservations through [Student Organization Advising & Resources](http://soar.ucsc.edu/). Once space is reserved, SOAR can help provide logistical support and guidance, including help with time, place and manner regulations, to set the stage for a successful event. Learn more by visiting [SOAR’s website](https://soar.ucsc.edu/event-planning/index.html).
+If you are organizing a protest as a representative of a Registered Student Organization (RSO), you must proceed with [Event Planning through Student Organization Advising & Resources](https://soar.ucsc.edu/event-planning/index.html) (SOAR).  SOAR can help provide logistical support and guidance, including help with relevant University policies, to set the stage for a successful protest.  
 
-**Time, Place and Manner Restrictions**
+## Expressive Activities
 
-In public forums such as Quarry Plaza, the university may not regulate the content of speech but can place reasonable time, place, and manner restrictions. Examples of permissible university time, place, and manner restrictions include:
+Expressive Activities such as protests, strikes, rallies, vigils, marches, etc are governed by the [UCSC Student Handbook](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/index.html), [Conduct Regulations (Time, Place, and Manner)](https://ucscpolicy.ellucid.com/pman/documents/view/218/), California Penal Code, and the California Code of Regulations.  These regulations are content-neutral and grounded in First Amendment protections.  Examples of these regulations include:
 
-- Time: Amplified sound is limited to certain hours. 
-- Place: [Posting of information](https://someca.ucsc.edu/plan-your-project/protocols.html#posting-fliers) on university buildings is limited to designated bulletin boards.
-- Manner: Distribution of literature may not [obstruct the ingress and egress](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/100.003.pdf) from university buildings. 
+* **Time**:  Amplified sound is limited to certain hours.  
+* **Place**:  Posting of information on university buildings is limited to designated bulletin boards.  
+* **Manner**:  Distribution of literature may not obstruct the ingress and egress from university buildings.
 
-A more complete list of university time, place, and manner restrictions can be found in the [Student Handbook](https://deanofstudents.ucsc.edu/student-conduct/student-handbook/index.html) and the interim [Major Events Policy](https://ucscpolicy.ellucid.com/pman/documents/view/238/?security=44967c3c459180e329345982ccada27606a02039).
+Certain activities that are common during these protests require advance permitting, these include:
 
+* [Use of Outdoor Amplified Sound](https://forms.gle/5DoDaHKPTue7VbzH7) (such as loudspeakers and blowhorns)  
+* [Use of Temporary Structures](https://forms.gle/LWTZSTPW5xryuFXc7) (such as canopies and platforms)  
+* [Use of Open Flames](https://ehs.ucsc.edu/programs/fire-prevention/special-events/open-flame-application.pdf) (such as candles and barbecues)  
+* [Special Events](https://ehs.ucsc.edu/programs/fire-prevention/special-events/events_emergency_response_plan_ucsc-2022.pdf) (such as roadway marches and parades)
 
+## Activity Locations
 
+Several areas have been specifically designated as public forums, including:
 
+* Quarry Amphitheater  
+* College “quadrangles”  
+* Grassy area between the University of California sign and the Granary and Stone House buildings near the intersection of High Street and Coolidge Drive.  
+* Quarry Plaza
 
+In addition to the list above, expressive activities may occur at all “university grounds open to the public”, which the University defines as:  
+*“outdoor areas of the campus (e.g. lawns, patios, plazas) that are at least 100 feet from the entrances/exits of campus buildings and parking lots, and that are also a safe distance from the curbing of campus roads.”*  
 
+In all cases, groups that specifically reserve these spaces for planned events have priority for use over activities that do not reserve the space.
 
+## Reserving Space
+
+Some protests will require that the Protest Organizer specifically request to use a University facility or space.  Depending on the space you want to reserve, you may need to follow a specific process.  The links below will direct you to the appropriate campus unit for the type of facility or space you will need to reserve.
+
+* [Classroom Reservations](https://registrar.ucsc.edu/classrooms/scheduling/classroom-reservations.html)  
+* [Conference Services](https://conferenceservices.ucsc.edu/index.html)  
+* [Recreation Office Reservations](https://recreation.ucsc.edu/facilities/reservations.html)  
+* [Non-Affiliate Event Facility Reservations](https://financial.ucsc.edu/Pages/RECS_Events.aspx)  
+* [Student Organization Reservations](https://someca.ucsc.edu/plan-your-project/spaces-you-can-reserve.html)
