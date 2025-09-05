@@ -19,7 +19,9 @@ When planning a protest, Protest Organizers have several questions to consider i
 * What kind of activities will my protest include?    
 * What restrictions or policies do I need to follow?
 
-If you are organizing a protest as a representative of a Registered Student Organization (RSO), you must proceed with [Event Planning through Student Organization Advising & Resources](https://soar.ucsc.edu/event-planning/index.html) (SOAR).  SOAR can help provide logistical support and guidance, including help with relevant University policies, to set the stage for a successful protest.  
+UC Santa Cruz has published this [Major Event Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLScWCcgWxDKt85zbMiUtvSOXpMPbAi4-zMrmnibwoYSY8kistw/viewform) to streamline and simplify the process for Event Organizers to develop policy-compliant events hosted on University Controlled Property.  
+
+If you are organizing an event or protest as a representative of a Registered Student Organization (RSO), you must proceed with [Event Planning through Student Organization Advising & Resources](https://getinvolved.ucsc.edu/student-organizations/plan-event/) (SOAR).  SOAR can help provide logistical support and guidance, including help with relevant University policies, to set the stage for a successful protest.  
 
 ## Expressive Activities
 
