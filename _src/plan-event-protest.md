@@ -35,8 +35,7 @@ Certain activities that are common during these protests require advance permitt
 
 * [Use of Outdoor Amplified Sound](https://forms.gle/5DoDaHKPTue7VbzH7) (such as loudspeakers and blowhorns)  
 * [Use of Temporary Structures](https://forms.gle/LWTZSTPW5xryuFXc7) (such as canopies and platforms)  
-* [Use of Open Flames](https://ehs.ucsc.edu/programs/fire-prevention/special-events/open-flame-application.pdf) (such as candles and barbecues)  
-* [Special Events](https://ehs.ucsc.edu/programs/fire-prevention/special-events/events_emergency_response_plan_ucsc-2022.pdf) (such as roadway marches and parades)
+* [Special Events & Open Flame / Cooking](https://ehs.ucsc.edu/fire-safety-and-prevention/special-events-cooking/) 
 
 ## Activity Locations
 
