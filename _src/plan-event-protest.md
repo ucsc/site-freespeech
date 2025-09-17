@@ -31,7 +31,7 @@ Expressive Activities such as protests, strikes, rallies, vigils, marches, etc a
 * **Place**:  Posting of information on university buildings is limited to designated bulletin boards.  
 * **Manner**:  Distribution of literature may not obstruct the ingress and egress from university buildings.
 
-Certain activities that are common during these protests require advance permitting, these include:
+Certain activities that are common during these protests require advance permitting. More information can be found online. these include:
 
 * [Use of Outdoor Amplified Sound](https://forms.gle/5DoDaHKPTue7VbzH7) (such as loudspeakers and blowhorns)  
 * [Use of Temporary Structures](https://forms.gle/LWTZSTPW5xryuFXc7) (such as canopies and platforms)  
@@ -53,10 +53,4 @@ In all cases, groups that specifically reserve these spaces for planned events h
 
 ## Reserving Space
 
-Some protests will require that the Protest Organizer specifically request to use a University facility or space.  Depending on the space you want to reserve, you may need to follow a specific process.  The links below will direct you to the appropriate campus unit for the type of facility or space you will need to reserve.
-
-* [Classroom Reservations](https://registrar.ucsc.edu/classrooms/scheduling/classroom-reservations.html)  
-* [Conference Services](https://conferenceservices.ucsc.edu/index.html)  
-* [Recreation Office Reservations](https://recreation.ucsc.edu/facilities/reservations.html)  
-* [Non-Affiliate Event Facility Reservations](https://financial.ucsc.edu/Pages/RECS_Events.aspx)  
-* [Student Organization Reservations](https://someca.ucsc.edu/plan-your-project/spaces-you-can-reserve.html)
+Some protests will require that the Protest Organizer specifically request to use a University facility or space.  The UC Santa Cruz [Spaces website](https://spaces.ucsc.edu/) provides information on reserving areas on campus. 
